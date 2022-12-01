@@ -186,7 +186,7 @@ function App() {
                 }}>Clear completed</button>
               </p>
           </div>
-          <p className=' flex text-xs md:text-sm w-full my-auto justify-center py-4'>Drag and drop to reorder list</p>
+          <p className=' flex text-xs md:text-sm w-full text-slate-600 dark:text-white my-auto justify-center py-4'>Drag and drop to reorder list</p>
         </div>
     </div>
   )
